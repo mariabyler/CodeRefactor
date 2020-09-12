@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,11 +19,11 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* id for website header */
 #seo {
     color: #d9dcd6;
 }
-
+/* nav styling */
 nav {
     padding-top: 15px;
     margin-right: 20px;
